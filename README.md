@@ -67,26 +67,6 @@ Profissional de **back-end em Python** com prática forte em **arquitetura limpa
 - **DevOps**: Docker/Compose, **Nginx** como edge, Gunicorn/Uvicorn, **CI/CD** e rollback seguro
 - **Segurança**: autenticação **JWT**, **RBAC**, boas práticas de hardening e logging estruturado
 
----
-
-## 🧩 Projetos Selecionados
-> Edite os links se necessário (mantive nomes objetivos).  
-> Dica: deixe **3–4** projetos, cada um com 1 frase de impacto.
-
-- **Dosie** — Plataforma de dossiês e inteligência interna (Flask + SQLAlchemy + Alembic).  
-  _Foco:_ cadastros complexos, relacionamentos ricos, auditoria e logs.  
-  🔗 Repositório: https://github.com/Henriquesm1/Dosie
-
-- **Help Desk Server** — Backend de suporte com Prisma/Node (em paralelo ao stack Python).  
-  _Foco:_ autenticação, tickets, SLAs, pipelines e deploy containerizado.  
-  🔗 Repositório: *(adicione o link do repo público quando quiser)*
-
-- **ACM / Portas** — Controle de acesso e rotinas de abertura/fechamento.  
-  _Foco:_ integrações, jobs, regras por horário e observabilidade.  
-  🔗 Repositório: *(adicione o link do repo público quando quiser)*
-
----
-
 ## 📬 Contato
 - 📧 **henriquesoares.morais@gmail.com**  
 - 🔗 **linkedin.com/in/henrique-moraes-/**
