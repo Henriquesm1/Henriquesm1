@@ -21,7 +21,7 @@
 
 ---
 
-## 📈 Linguagens (auto % dos repositórios)
+## 📈 Linguagens
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henriquesm1&layout=compact&theme=radical&langs_count=8" alt="langs - percentuais por repo" />
 </p>
