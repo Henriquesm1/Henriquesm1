@@ -18,7 +18,7 @@
 ## 🧭 Sobre
 Profissional de **back-end em Python** com prática forte em **arquitetura limpa**, **bancos relacionais**, **observabilidade** e **deploy** automatizado. Foco em entregar APIs robustas, seguras e fáceis de manter, com **métricas** e **testes** acompanhando cada release.
 
-## 🛠️ Stack (com ícones)
+## 🛠️ Stack
 <div align="center" style="display:flex;flex-wrap:wrap;gap:18px;justify-content:center;align-items:center;margin:10px 0 6px 0;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="Python" title="Python">
   <picture>
