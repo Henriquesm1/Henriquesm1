@@ -20,7 +20,7 @@
   <a href="https://www.linkedin.com/in/henrique-moraes-/">
     <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <img src="https://img.shields.io/badge/Stack-Python%20%7C%20Flask%20%7C%20FastAPI%20%7C%20SQLAlchemy%20%7C%20MySQL%2FPostgreSQL-3d3d3d" alt="Stack"/>
+  <img src="https://img.shields.io/badge/Foco-Python-3776AB?logo=python&logoColor=white" alt="Python foco"/>
 </p>
 
 <!-- Typing animation -->
@@ -30,28 +30,34 @@
 
 ---
 
+## 📈 Linguagens (auto % dos repositórios)
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henriquesm1&layout=compact&theme=radical&langs_count=8" alt="langs - percentuais por repo" />
+</p>
+
+> O card acima mostra automaticamente a **porcentagem de cada linguagem** no seu GitHub. Se quiser focar mais ainda em Python, dá pra ocultar linguagens menores usando `&hide=javascript,html,css` (exemplo abaixo).
+
+---
+
+## 📊 Outros Cards
+<div align="center">
+
+<!-- Stats gerais -->
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Henriquesm1&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="stats" />
+
+<!-- Streak -->
+<img height="160" src="https://streak-stats.demolab.com?user=Henriquesm1&theme=radical&date_format=j%20M%5B%20Y%5D" alt="streak" />
+
+</div>
+
+---
+
 ## 🔥 Destaques
 - 🚀 Back-end 100% **Python** (Flask/FastAPI) com arquitetura limpa e **migrations** (Alembic)
 - 🗄️ SQLAlchemy + MySQL/PostgreSQL, consultas performáticas e modelos bem versionados
 - 🧪 **Testes** (PyTest), qualidade contínua e pipelines de entrega
 - ☁️ **DevOps**: Docker, Nginx, Gunicorn/Uvicorn, systemd/Supervisor, CI/CD
 - 🔐 Segurança: autenticação JWT, RBAC, boas práticas de hardening
-
----
-
-## 📊 Cards
-<div align="center">
-
-<!-- Stats gerais -->
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Henriquesm1&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="stats" />
-
-<!-- Linguagens -->
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henriquesm1&layout=compact&theme=radical&langs_count=8" alt="langs" />
-
-<!-- Streak -->
-<img height="160" src="https://streak-stats.demolab.com?user=Henriquesm1&theme=radical&date_format=j%20M%5B%20Y%5D" alt="streak" />
-
-</div>
 
 ---
 
@@ -68,12 +74,3 @@
 ## 📬 Contato
 - ✉️ E-mail: **henriquesoares.morais@gmail.com**  
 - 💼 LinkedIn: **https://www.linkedin.com/in/henrique-moraes-/**
-
----
-
-<!-- SNAKE (contrib graph animação) -->
-<h3 align="center">Contribuições</h3>
-<p align="center">
-  <img alt="snake" src="https://raw.githubusercontent.com/Henriquesm1/Henriquesm1/main/output/snake.svg" />
-</p>
-
