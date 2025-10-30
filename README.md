@@ -1,11 +1,12 @@
-<!-- Banner (opcional). Substitua pela sua imagem em ./assets/banner.png -->
+﻿<!-- Banner (opcional). Troque por ./assets/banner.png se quiser local -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Henriquesm1/Henriquesm1/main/assets/banner.png" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Fala, eu sou o Henrique 👋</h1>
+<h1 align="center">Henrique Moraes — Desenvolvedor Python 🐍</h1>
 <p align="center">
-  Desenvolvedor Full Stack • Python/Flask, PHP, React • Segurança & IoT
+  Construo sistemas completos com foco em qualidade, segurança e desempenho.<br/>
+  Python • Flask/FastAPI • SQLAlchemy • Alembic • Docker • Nginx • CI/CD
 </p>
 
 <!-- Badges -->
@@ -13,60 +14,63 @@
   <a href="https://github.com/Henriquesm1">
     <img src="https://komarev.com/ghpvc/?username=Henriquesm1&label=Visitas&style=flat&color=blue" alt="views"/>
   </a>
-  <a href="https://www.linkedin.com/in/henrique-moraes-/">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
   <a href="mailto:henriquesoares.morais@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contato-red?logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <img src="https://img.shields.io/badge/Stack-Python%20%7C%20Flask%20%7C%20Node%20%7C%20React%20%7C%20MySQL-3d3d3d" alt="Stack"/>
+  <a href="https://www.linkedin.com/in/henrique-moraes-/">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <img src="https://img.shields.io/badge/Stack-Python%20%7C%20Flask%20%7C%20FastAPI%20%7C%20SQLAlchemy%20%7C%20MySQL%2FPostgreSQL-3d3d3d" alt="Stack"/>
 </p>
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=700&lines=Construo+sistemas+inteiros+end-to-end;APIs+escal%C3%A1veis+com+Flask%2C+Node%2C+Prisma;Dashboards%2C+DevOps%2C+IoT%2C+ESP32;Testes%2C+pipelines+CI%2FCD%2C+Observabilidade" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=780&lines=APIs+robustas+com+Flask%2FFastAPI;ORM+limpo+com+SQLAlchemy+%2B+Alembic+migrations;Observabilidade%2C+logs+estruturados+e+testes+automatizados;Deploy+com+Docker%2C+Nginx%2C+systemd%2FSupervisor;Seguran%C3%A7a+%E2%80%94+JWT%2C+RBAC%2C+hardening+de+servidores" alt="typing" />
 </p>
 
 ---
 
 ## 🔥 Destaques
-- 🚀 Sistemas internos (Flask/SQLAlchemy, React) com **migrations** e deploy
-- 🔐 Segurança eletrônica, controle de acesso (ControlID), monitoramento
-- ☁️ DevOps: VPS, Nginx/PM2/Gunicorn, CI/CD, Docker, logs e **rollbacks**
-- 🧪 Qualidade: testes, pipelines, versionamento e releases
+- 🚀 Back-end 100% **Python** (Flask/FastAPI) com arquitetura limpa e **migrations** (Alembic)
+- 🗄️ SQLAlchemy + MySQL/PostgreSQL, consultas performáticas e modelos bem versionados
+- 🧪 **Testes** (PyTest), qualidade contínua e pipelines de entrega
+- ☁️ **DevOps**: Docker, Nginx, Gunicorn/Uvicorn, systemd/Supervisor, CI/CD
+- 🔐 Segurança: autenticação JWT, RBAC, boas práticas de hardening
 
 ---
 
-## 📊 Cards (Stats)
+## 📊 Cards
 <div align="center">
 
 <!-- Stats gerais -->
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Henriquesm1&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="stats"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Henriquesm1&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="stats" />
 
 <!-- Linguagens -->
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henriquesm1&layout=compact&theme=radical&langs_count=8" alt="langs"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henriquesm1&layout=compact&theme=radical&langs_count=8" alt="langs" />
 
 <!-- Streak -->
-<img height="160" src="https://streak-stats.demolab.com?user=Henriquesm1&theme=radical&date_format=j%20M%5B%20Y%5D" alt="streak"/>
+<img height="160" src="https://streak-stats.demolab.com?user=Henriquesm1&theme=radical&date_format=j%20M%5B%20Y%5D" alt="streak" />
 
 </div>
 
 ---
 
-## 🏆 Trophies (opcional)
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Henriquesm1&theme=onestar&no-frame=true&row=1&column=7" />
-</p>
+## 🛠️ Tech
+**Core:** Python 3.x, Flask, FastAPI, SQLAlchemy, Alembic, Jinja2  
+**Qualidade:** PyTest, Coverage, Flake8, Black, pre-commit  
+**Banco de Dados:** MySQL/MariaDB, PostgreSQL, Migrations, Seeds  
+**Infra & Deploy:** Docker, Docker Compose, Nginx, Gunicorn/Uvicorn, systemd/Supervisor  
+**Observabilidade:** Logs estruturados, métricas, alertas  
+**Extras:** Integrações de segurança eletrônica e IoT (ESP32, W5500)
 
 ---
 
 ## 📌 Repositórios em Destaque
-<!-- Use repos reais para evitar 404. Exemplo com o projeto Dosie -->
 <p align="center">
   <a href="https://github.com/Henriquesm1/Dosie">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Henriquesm1&repo=Dosie&theme=radical" />
   </a>
-  <!-- Adicione mais abaixo, se quiser -->
+  <!-- Adicione mais destaques reais abaixo, se quiser -->
   <!--
   <a href="https://github.com/Henriquesm1/NOME_DO_REPO2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Henriquesm1&repo=NOME_DO_REPO2&theme=radical" />
@@ -76,25 +80,9 @@
 
 ---
 
-## 🛠️ Tech
-**Backend:** Python (Flask, FastAPI), Node/TS (Express, Prisma), SQLAlchemy, JWT , PHP 
-**Frontend:** React, Vite, Tailwind, MUI  
-**DB:** MySQL/MariaDB, PostgreSQL, Prisma, Alembic  
-**Infra/DevOps:** VPS, Nginx, PM2/Gunicorn, CI/CD, Docker, Logs & Métricas  
-**IoT:** ESP32, W5500, integrações e protocolos
-
----
-
-## 🧩 Como contribuo no dia a dia
-- Arquitetura limpa, *feature flags*, *blue/green* e *canary*
-- Observabilidade: logs estruturados, métricas e alertas
-- Documentação enxuta (DAP / README / ADR) e *code review* objetivo
-
----
-
 ## 📬 Contato
-- ✉️ E-mail: henriquesoares.morais@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/henrique-moraes-/  
+- ✉️ E-mail: **henriquesoares.morais@gmail.com**  
+- 💼 LinkedIn: **https://www.linkedin.com/in/henrique-moraes-/**
 
 ---
 
@@ -103,4 +91,3 @@
 <p align="center">
   <img alt="snake" src="https://raw.githubusercontent.com/Henriquesm1/Henriquesm1/main/output/snake.svg" />
 </p>
-
