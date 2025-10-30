@@ -1,15 +1,6 @@
-<!-- Banner (opcional). Troque por ./assets/banner.png se quiser local -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Henriquesm1/Henriquesm1/main/assets/banner.png" alt="Banner" width="100%" />
-</p>
+<!-- Sem banner e sem H1 no topo -->
 
-<h1 align="center">Henrique Moraes — Desenvolvedor Python 🐍</h1>
-<p align="center">
-  Construo sistemas completos com foco em qualidade, segurança e desempenho.<br/>
-  Python • Flask/FastAPI • SQLAlchemy • Alembic • Docker • Nginx • CI/CD
-</p>
-
-<!-- Badges -->
+<!-- Badges compactos -->
 <p align="center">
   <a href="https://github.com/Henriquesm1">
     <img src="https://komarev.com/ghpvc/?username=Henriquesm1&label=Visitas&style=flat&color=blue" alt="views"/>
@@ -23,9 +14,9 @@
   <img src="https://img.shields.io/badge/Foco-Python-3776AB?logo=python&logoColor=white" alt="Python foco"/>
 </p>
 
-<!-- Typing animation -->
+<!-- Typing animation (mensagem discreta) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=780&lines=APIs+robustas+com+Flask%2FFastAPI;ORM+limpo+com+SQLAlchemy+%2B+Alembic+migrations;Observabilidade%2C+logs+estruturados+e+testes+automatizados;Deploy+com+Docker%2C+Nginx%2C+systemd%2FSupervisor;Seguran%C3%A7a+%E2%80%94+JWT%2C+RBAC%2C+hardening+de+servidores" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=780&lines=APIs+robustas+com+Flask%2FFastAPI;SQLAlchemy+%2B+Alembic+migrations;Observabilidade+%2F+Testes+automatizados;Deploy+com+Docker+%2B+Nginx+%2B+CI%2FCD" alt="typing" />
 </p>
 
 ---
@@ -35,7 +26,7 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henriquesm1&layout=compact&theme=radical&langs_count=8" alt="langs - percentuais por repo" />
 </p>
 
-> O card acima mostra automaticamente a **porcentagem de cada linguagem** no seu GitHub. Se quiser focar mais ainda em Python, dá pra ocultar linguagens menores usando `&hide=javascript,html,css` (exemplo abaixo).
+> Dica: para destacar **ainda mais Python**, você pode ocultar linguagens menores adicionando `&hide=javascript,html,css` à URL acima.
 
 ---
 
@@ -53,11 +44,11 @@
 ---
 
 ## 🔥 Destaques
-- 🚀 Back-end 100% **Python** (Flask/FastAPI) com arquitetura limpa e **migrations** (Alembic)
-- 🗄️ SQLAlchemy + MySQL/PostgreSQL, consultas performáticas e modelos bem versionados
-- 🧪 **Testes** (PyTest), qualidade contínua e pipelines de entrega
-- ☁️ **DevOps**: Docker, Nginx, Gunicorn/Uvicorn, systemd/Supervisor, CI/CD
-- 🔐 Segurança: autenticação JWT, RBAC, boas práticas de hardening
+- Back-end 100% **Python** (Flask/FastAPI) com arquitetura limpa e **migrations** (Alembic)
+- **SQLAlchemy** + MySQL/PostgreSQL, consultas performáticas e modelos versionados
+- **Testes** (PyTest), qualidade contínua e pipelines de entrega
+- **DevOps**: Docker, Nginx, Gunicorn/Uvicorn, systemd/Supervisor, CI/CD
+- Segurança: **JWT**, RBAC, boas práticas de hardening
 
 ---
 
@@ -66,11 +57,4 @@
 **Qualidade:** PyTest, Coverage, Flake8, Black, pre-commit  
 **Banco de Dados:** MySQL/MariaDB, PostgreSQL, Migrations, Seeds  
 **Infra & Deploy:** Docker, Docker Compose, Nginx, Gunicorn/Uvicorn, systemd/Supervisor  
-**Observabilidade:** Logs estruturados, métricas, alertas  
-**Extras:** Integrações de segurança eletrônica e IoT (ESP32, W5500)
-
----
-
-## 📬 Contato
-- ✉️ E-mail: **henriquesoares.morais@gmail.com**  
-- 💼 LinkedIn: **https://www.linkedin.com/in/henrique-moraes-/**
+**Observabilidade:** Logs estruturados, métricas, alertas
