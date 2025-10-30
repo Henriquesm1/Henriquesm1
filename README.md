@@ -51,10 +51,7 @@ Profissional de **back-end em Python** com prática forte em **arquitetura limpa
        src="https://github-readme-stats.vercel.app/api?username=Henriquesm1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=stars,issues,prs&hide_rank=true&custom_title=Estat%C3%ADsticas%20do%20Henrique&v=3"
        alt="Estatísticas do GitHub" />
 
-  <!-- Streak semanal -->
-  <img height="170"
-       src="https://streak-stats.demolab.com?user=Henriquesm1&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&locale=pt_BR&v=3"
-       alt="Sequência de contribuições" />
+
 
 </div>
 
